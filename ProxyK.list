@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-KEYWORD,cursor
+DOMAIN-SUFFIX,gork.com
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
